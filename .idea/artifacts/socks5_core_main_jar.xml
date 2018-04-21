@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="socks5.core_main:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/socks5_core_main_jar</output-path>
+    <root id="archive" name="socks5.core_main.jar">
+      <element id="module-output" name="socks5.core_main" />
+      <element id="extracted-dir" path="D:/Program Files/gradle-4.6/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.9.5/a22ac51016944b06fd9ffbc9541c6e7ce5eea117/jackson-core-2.9.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/Program Files/gradle-4.6/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.9.0/7c10d545325e3a6e72e06381afe469fd40eb701/jackson-annotations-2.9.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/Program Files/gradle-4.6/caches/modules-2/files-2.1/com.fasterxml.jackson.dataformat/jackson-dataformat-yaml/2.9.5/a10eb0c996b7b855b7dafa3abb0a39cb6873b9e7/jackson-dataformat-yaml-2.9.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/Program Files/gradle-4.6/caches/modules-2/files-2.1/log4j/log4j/1.2.17/5af35056b4d257e4b64b9e8069c0746e8b08629f/log4j-1.2.17.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/Program Files/gradle-4.6/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.9.5/3490508379d065fe3fcb80042b62f630f7588606/jackson-databind-2.9.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/Program Files/gradle-4.6/caches/modules-2/files-2.1/org.yaml/snakeyaml/1.18/e4a441249ade301985cb8d009d4e4a72b85bf68e/snakeyaml-1.18.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
