@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Channeling.iml" filepath="$PROJECT_DIR$/.idea/modules/Channeling.iml" group="Channeling" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Channeling/Channeling_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Channeling/Channeling_main.iml" group="Channeling" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Channeling/Channeling_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Channeling/Channeling_test.iml" group="Channeling" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Config.iml" filepath="$PROJECT_DIR$/.idea/modules/Config.iml" group="Config" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Config/Config_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Config/Config_main.iml" group="Config" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Config/Config_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Config/Config_test.iml" group="Config" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Core.iml" filepath="$PROJECT_DIR$/.idea/modules/Core.iml" group="Core" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Core/Core_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Core/Core_main.iml" group="Core" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Core/Core_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Core/Core_test.iml" group="Core" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Flow.iml" filepath="$PROJECT_DIR$/.idea/modules/Flow.iml" group="Flow" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Flow/Flow_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Flow/Flow_main.iml" group="Flow" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Flow/Flow_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Flow/Flow_test.iml" group="Flow" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Utilities.iml" filepath="$PROJECT_DIR$/.idea/modules/Utilities.iml" group="Utilities" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Utilities/Utilities_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Utilities/Utilities_main.iml" group="Utilities" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Utilities/Utilities_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Utilities/Utilities_test.iml" group="Utilities" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/interfaces.iml" filepath="$PROJECT_DIR$/.idea/modules/interfaces.iml" group="interfaces" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/interfaces/interfaces_main.iml" filepath="$PROJECT_DIR$/.idea/modules/interfaces/interfaces_main.iml" group="interfaces" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/interfaces/interfaces_test.iml" filepath="$PROJECT_DIR$/.idea/modules/interfaces/interfaces_test.iml" group="interfaces" />
+      <module fileurl="file://$PROJECT_DIR$/socks5.core.iml" filepath="$PROJECT_DIR$/socks5.core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/socks5.core_main.iml" filepath="$PROJECT_DIR$/.idea/modules/socks5.core_main.iml" group="socks5.core" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/socks5.core_test.iml" filepath="$PROJECT_DIR$/.idea/modules/socks5.core_test.iml" group="socks5.core" />
+    </modules>
+  </component>
+</project>

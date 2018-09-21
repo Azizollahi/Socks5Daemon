@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="Channeling_main" target="1.10" />
+      <module name="Channeling_test" target="1.10" />
+      <module name="Config_main" target="1.10" />
+      <module name="Config_test" target="1.10" />
+      <module name="Core_main" target="1.10" />
+      <module name="Core_test" target="1.10" />
+      <module name="Flow_main" target="1.10" />
+      <module name="Flow_test" target="1.10" />
+      <module name="interfaces_main" target="1.10" />
+      <module name="interfaces_test" target="1.10" />
+      <module name="socks5.core_main" target="1.10" />
+      <module name="socks5.core_test" target="1.10" />
+      <module name="Utilities_main" target="1.10" />
+      <module name="Utilities_test" target="1.10" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

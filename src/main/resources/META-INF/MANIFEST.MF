@@ -1,4 +1,0 @@
-Manifest-Version: 1.0
-Class-Path: jackson-annotations-2.9.0.jar; jackson-core-2.9.5.jar; jackson-databind-2.9.5.jar; jackson-dataformat-yaml-2.9.5.jar; log4j-1.2.17.jar; snakeyaml-1.18.jar;
-Main-Class: azizollahi.app.socks.core.Application
-

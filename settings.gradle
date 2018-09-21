@@ -1,2 +1,8 @@
 rootProject.name = 'socks5.core'
+include 'Channeling'
+include 'Config'
+include 'interfaces'
+include 'Utilities'
+include 'Flow'
+include 'Core'
 
