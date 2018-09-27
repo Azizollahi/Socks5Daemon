@@ -2,6 +2,20 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel>
+      <module name="Application_main" target="1.10" />
+      <module name="Application_test" target="1.10" />
+      <module name="azizollahi.app-Channeling_main" target="1.10" />
+      <module name="azizollahi.app-Channeling_test" target="1.10" />
+      <module name="azizollahi.app-Config_main" target="1.10" />
+      <module name="azizollahi.app-Config_test" target="1.10" />
+      <module name="azizollahi.app-Core_main" target="1.10" />
+      <module name="azizollahi.app-Core_test" target="1.10" />
+      <module name="azizollahi.app-Flow_main" target="1.10" />
+      <module name="azizollahi.app-Flow_test" target="1.10" />
+      <module name="azizollahi.app-interfaces_main" target="1.10" />
+      <module name="azizollahi.app-interfaces_test" target="1.10" />
+      <module name="azizollahi.app-Utilities_main" target="1.10" />
+      <module name="azizollahi.app-Utilities_test" target="1.10" />
       <module name="Channeling_main" target="1.10" />
       <module name="Channeling_test" target="1.10" />
       <module name="Config_main" target="1.10" />
@@ -10,6 +24,8 @@
       <module name="Core_test" target="1.10" />
       <module name="Flow_main" target="1.10" />
       <module name="Flow_test" target="1.10" />
+      <module name="Infrastructure_main" target="1.10" />
+      <module name="Infrastructure_test" target="1.10" />
       <module name="interfaces_main" target="1.10" />
       <module name="interfaces_test" target="1.10" />
       <module name="socks5.core_main" target="1.10" />

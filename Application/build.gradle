@@ -1,0 +1,10 @@
+plugins {
+    id 'java'
+}
+
+group 'azizollahi.app'
+version '1.0.0'
+
+sourceCompatibility = 10
+
+ext.moduleName = 'azizollahi.app.application'

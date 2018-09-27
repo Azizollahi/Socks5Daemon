@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<module external.linked.project.id=":Channeling" external.linked.project.path="$MODULE_DIR$/../../Channeling" external.root.project.path="$MODULE_DIR$/../.." external.system.id="GRADLE" external.system.module.group="azizollahi.app" external.system.module.version="1.0.0" type="JAVA_MODULE" version="4">
+<module external.linked.project.id=":Infrastructure:Channeling" external.linked.project.path="$MODULE_DIR$/../../Infrastructure/Channeling" external.root.project.path="$MODULE_DIR$/../.." external.system.id="GRADLE" external.system.module.group="azizollahi.app" external.system.module.version="1.0.0" type="JAVA_MODULE" version="4">
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
-    <content url="file://$MODULE_DIR$/../../Channeling">
+    <content url="file://$MODULE_DIR$/../../Infrastructure/Channeling">
       <excludeFolder url="file://$MODULE_DIR$/../../Channeling/.gradle" />
-      <excludeFolder url="file://$MODULE_DIR$/../../Channeling/build" />
       <excludeFolder url="file://$MODULE_DIR$/../../Channeling/out" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Infrastructure/Channeling/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Infrastructure/Channeling/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Infrastructure/Channeling/out" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

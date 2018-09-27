@@ -1,0 +1,19 @@
+plugins {
+    id 'java'
+}
+
+group 'azizollahi.app'
+version '1.0.0'
+
+sourceCompatibility = 10
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    implementation project(':Infrastructure:Utilities')
+    implementation project(':Application:interfaces')
+    testCompile group: 'junit', name: 'junit', version: '4.12'
+}
+ext.moduleName = 'azizollahi.app.channeling'
